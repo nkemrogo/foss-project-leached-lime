@@ -113,8 +113,8 @@ const ComplaintForm = ({ onSubmitSuccess }) => {
 const styles = {
   container: {
     maxWidth: '450px',
-    margin: '2rem auto',
-    padding: '2rem',
+    margin: '1rem auto',
+    padding: '1rem',
     border: '1px solid #e5e7eb',
     borderRadius: '10px',
     backgroundColor: '#ffffff',
