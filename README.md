@@ -128,6 +128,7 @@ Then visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 
 ## 👨‍💻 Contributors
 
+* **Ogor Daniel Nkemakola Ebiye** - *Project Manager*
 * **Ogungbade Shalom** – *Lead Developer & Designer*
 * *(Add other contributors if applicable)*
 
