@@ -4,7 +4,7 @@
 # 🏫 Hostel Complaint Management System
 
 A **Hostel Complaint Management System** designed to streamline how students report and track issues within a hostel environment.
-The system allows students to log complaints, track progress, and receive updates — while admins can efficiently manage, assign, and resolve them.
+The system allows students to log complaints, track progress, and receive updates — while admins can efficiently manage, assign, and resolve them
 
 ---
 
@@ -107,7 +107,7 @@ Then visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 
 ---
 
-## 📸 Screenshots
+## 📸Screenshots
 
 
 | Admin Dashboard                        | 
