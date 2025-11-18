@@ -109,13 +109,10 @@ Then visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 
 ## 📸 Screenshots
 
-| Student Dashboard                          | Admin Dashboard                        |
-| ------------------------------------------ | -------------------------------------- |
-| ![Student](path/to/student_screenshot.png) | ![Admin](path/to/admin_screenshot.png) |
 
-*(Replace with your actual screenshots)*
+| Admin Dashboard                        | 
 <img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/259738bd-879c-4601-bddd-c6d092f43754" />
-
+| Student Dashboard                        |
 <img width="1846" height="884" alt="image" src="https://github.com/user-attachments/assets/b5b08da4-e65c-47ed-94ad-0f70fca3f64e" />
 
 ---
