@@ -4,7 +4,7 @@
 # 🏫 Hostel Complaint Management System
 
 A **Hostel Complaint Management System** designed to streamline how students report and track issues within a hostel environment.
-The system allows students to log complaints, track progress, and receive updates — while admins can efficiently manage, assign, and resolve them.
+The system allows students to log complaints, track progress, and receive updates — while admins can efficiently manage, assign, and resolve them
 
 ---
 
@@ -58,8 +58,8 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/hostel-complaint-management.git
-cd hostel-complaint-management
+git clone https://github.com/BU-SENG/foss-project-leached-lime.git
+cd foss-project-leached-lime
 ```
 
 ### 2️⃣ Install dependencies
@@ -78,7 +78,7 @@ npm install
 
 ### 3️⃣ Setup your database
 
-* Create a MySQL database (e.g., `hostel_complaints_db`).
+* Create a MySQL database (e.g., `datbase.sqlite`).
 * Import the SQL schema (if provided) or create necessary tables manually.
 * Update your `.env` file with the following:
 
@@ -107,13 +107,13 @@ Then visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 
 ---
 
-## 📸 Screenshots
+## 📸Screenshots
 
-| Student Dashboard                          | Admin Dashboard                        |
-| ------------------------------------------ | -------------------------------------- |
-| ![Student](path/to/student_screenshot.png) | ![Admin](path/to/admin_screenshot.png) |
 
-*(Replace with your actual screenshots)*
+| Admin Dashboard                        | 
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/259738bd-879c-4601-bddd-c6d092f43754" />
+| Student Dashboard                        |
+<img width="1846" height="884" alt="image" src="https://github.com/user-attachments/assets/b5b08da4-e65c-47ed-94ad-0f70fca3f64e" />
 
 ---
 
@@ -128,8 +128,10 @@ Then visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 
 ## 👨‍💻 Contributors
 
+* **Ogor Daniel Nkemakolam Ebiye** – *Project coordinator*
 * **Ogungbade Shalom** – *Lead Developer & Designer*
-* *(Add other contributors if applicable)*
+* **Okechukwu Chiemerie Victor** – *Requirement Engineer*
+  
 
 ---
 
