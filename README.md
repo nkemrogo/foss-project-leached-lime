@@ -10,7 +10,7 @@ The system allows students to log complaints, track progress, and receive update
 
 ## 🚀 Features!
 
-### 👨‍🎓 ** For Students:**
+### 👨‍🎓 **For Students:**
 
 * Submit complaints easily through an online form.
 * View the status of each submitted complaints.
