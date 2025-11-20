@@ -4,7 +4,7 @@
 # 🏫 Hostel Complaint Management System 
 
 A **Hostel Complaint Management System** designed to streamline how students track and respond to issues within a hostel environment 
-The system allows students to log complaints, track progress, and receive updates — while admins can efficiently manage, assign, and resolve them. Also allows admins see said complaints
+The system allows students to log complaints, track progress, and receive updates — while admins can efficiently manage, assign, and resolve them. Also allows admins see said complaints.
 
 ---
 
