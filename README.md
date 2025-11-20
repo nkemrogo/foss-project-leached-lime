@@ -34,7 +34,7 @@ The system allows students to log complaints, track progress, and receive update
 | Backend         | Node.js / Express.js  |
 | Database        | MySQL                 |
 | Authentication  | JWT (JSON Web Tokens) |
-| Styling         | TailWind Css       |
+| Styling         | Tailwind CSS       |
 | Version Control | Git & GitHub          |
 
 ---
@@ -88,6 +88,7 @@ DB_PASS=yourpassword
 DB_NAME=hostel_complaints_db
 JWT_SECRET=your_jwt_secret
 PORT=5000
+(For Production Only)
 ```
 
 ### 4️⃣ Run the app
