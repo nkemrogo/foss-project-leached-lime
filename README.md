@@ -34,7 +34,7 @@ The system allows students to log complaints, track progress, and receive update
 | Backend         | Node.js / Express.js  |
 | Database        | MySQL                 |
 | Authentication  | JWT (JSON Web Tokens) |
-| Styling         | CSS / Bootstrap       |
+| Styling         | TailWind Css       |
 | Version Control | Git & GitHub          |
 
 ---
