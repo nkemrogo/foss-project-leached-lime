@@ -28,14 +28,14 @@ The system allows students to log complaints, track progress, and receive update
 
 ## 🛠️ Tech Stack
 
-| Layer           | Technology            |
-| :-------------- | :-------------------- |
-| Frontend        | React.js              |
-| Backend         | Node.js / Express.js  |
-| Database        | MySQL                 |
-| Authentication  | JWT (JSON Web Tokens) |
-| Styling         | Tailwind CSS       |
-| Version Control | Git & GitHub          |
+| Layer           | Technology             |
+| :-------------- | :--------------------  |
+| Frontend        | React.js               |
+| Backend         | Node.js / Express.js   |
+| Database        | MySQL                  |
+| Authentication  | JWT (JSON Web Tokens)  |
+| Styling         | Tailwind CSS           |
+| Version Control | Git & GitHub           |
 
 ---
 
@@ -133,6 +133,7 @@ Then visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 * **Okechukwu Chiemerie Victor** – *Requirement Engineer*
 * **Okafor Kosisoichukwu** - *Second Requiremnt Engineer*
 * **Obogho Ewomazino Karen**
+* **Obiazikwor favour EKENEDILICHUKWU**
 ---
 
 ## 📜 License
