@@ -132,8 +132,8 @@ Then visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 * **Ogungbade Shalom** – *Lead Developer & Designer*
 * **Okechukwu Chiemerie Victor** – *Requirement Engineer*
 * **Okafor Kosisoichukwu** - *Second Requiremnt Engineer*
-* **Obogho Ewomazino Karen**
-* **Obiazikwor favour EKENEDILICHUKWU**
+* **Obogho Ewomazino Karen** = *Documentation*
+* **Obiazikwor favour EKENEDILICHUKWU** -  *UI/UX*
 ---
 
 ## 📜 License
